@@ -1,4 +1,5 @@
-![githubprofileimg](http![Uploading Youtube_Banner_Resized.png…]()
+![Uploading Youtube_Banner_Resized.png…]()
+
 
 **Welcome to My GitHub Profile!**
 Hi, I’m Lovish Bhardwaj, a passionate B.Tech CSE student with a keen interest in Artificial Intelligence, Machine Learning, and Software Development. I’m currently learning and exploring various technologies and working on projects related to AI, IoT, and Backend Development.
