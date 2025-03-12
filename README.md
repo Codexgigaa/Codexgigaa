@@ -1,4 +1,4 @@
-![Youtube_Banner_Resized](https://github.com/user-attachments/assets/8c03e76e-3307-4346-9aec-fa4187ec1918)
+![DALL·E 2025-03-12 17 16 35 - A digital graphic design featuring a plain rectangular text box with 'Lovish Bhardwaj' written in a horizontal manner  The background showcases a beau](https://github.com/user-attachments/assets/3c812fa7-c8f4-4d26-8585-3a85216abdb0)
 **Welcome to My GitHub Profile!**
 Hi, I’m Lovish Bhardwaj, a passionate B.Tech CSE student with a keen interest in Artificial Intelligence, Machine Learning, and Software Development. I’m currently learning and exploring various technologies and working on projects related to AI, IoT, and Backend Development.
 
