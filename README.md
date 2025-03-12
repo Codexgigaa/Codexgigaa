@@ -1,6 +1,5 @@
-![githubprofileimg](https://github.com/user-attachments/assets/4689949d-7bde-4214-98be-d3248c62a387)![githubprofileimg](https://github.com/user-attachments/assets/871c9caa-cf7e-4467-b981-bad97adbc1f7)
-
-Welcome to My GitHub Profile!
+![githubprofileimg](https://github.com/user-attachments/assets/4689949d-7bde-4214-98be-d3248c62a387)!
+**Welcome to My GitHub Profile!**
 Hi, I’m Lovish Bhardwaj, a passionate B.Tech CSE student with a keen interest in Artificial Intelligence, Machine Learning, and Software Development. I’m currently learning and exploring various technologies and working on projects related to AI, IoT, and Backend Development.
 
 What I Do
