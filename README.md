@@ -1,6 +1,4 @@
-![Uploading Youtube_Banner_Resized.png…]()
-
-
+![Youtube_Banner_Resized](https://github.com/user-attachments/assets/8c03e76e-3307-4346-9aec-fa4187ec1918)
 **Welcome to My GitHub Profile!**
 Hi, I’m Lovish Bhardwaj, a passionate B.Tech CSE student with a keen interest in Artificial Intelligence, Machine Learning, and Software Development. I’m currently learning and exploring various technologies and working on projects related to AI, IoT, and Backend Development.
 
